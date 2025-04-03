@@ -1,0 +1,31 @@
+Random Forest Regression Metrics:
+Mean Squared Error (MSE): 49.71885654563388
+Mean Absolute Error (MAE): 5.355819284096091
+R-squared (R2): 0.6783852165374954
+
+Linear Regression Metrics:
+Mean Squared Error (MSE): 67.45566165568678
+Mean Absolute Error (MAE): 6.505799914422559
+R-squared (R2): 0.5636517103565845
+
+XGBoost Regression Metrics:
+Mean Squared Error (MSE): 68.47613568297074
+Mean Absolute Error (MAE): 6.294911161675511
+R-squared (R2): 0.5570506025251362
+
+
+Random Forest Regression Metrics:
+Mean Squared Error (MSE): 62.094542867372
+Mean Absolute Error (MAE): 5.641269625856072
+R-squared (R2): 0.5983310086754843
+
+Linear Regression Metrics:
+Mean Squared Error (MSE): 93.18155827489414
+Mean Absolute Error (MAE): 7.528106486348432
+R-squared (R2): 0.3972394224357809
+
+XGBoost Regression Metrics:
+Mean Squared Error (MSE): 66.2961697768769
+Mean Absolute Error (MAE): 5.773805147194001
+R-squared (R2): 0.571152078535561
+
