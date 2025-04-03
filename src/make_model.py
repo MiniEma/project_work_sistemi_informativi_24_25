@@ -57,6 +57,7 @@ def train_model(data):
     
     # Save the evaluation metrics to a file
     with open(os.path.join(config.MODEL_PATH, 'evaluation_metrics.txt'), 'w') as f:
+        f.write("House Distance Stores Model"\n)
         f.write("Random Forest Regression Metrics:\n")
         f.write(f"Mean Squared Error (MSE): {rf_mse}\n")
         f.write(f"Mean Absolute Error (MAE): {rf_mae}\n")
@@ -111,6 +112,7 @@ def train_model(data):
     
     # Save the evaluation metrics to a file
     with open(os.path.join(config.MODEL_PATH, 'evaluation_metrics.txt'), 'a') as f:
+        f.write("Latitude Longitude models \n)
         f.write("\nRandom Forest Regression Metrics:\n")
         f.write(f"Mean Squared Error (MSE): {rf_mse}\n")
         f.write(f"Mean Absolute Error (MAE): {rf_mae}\n")
