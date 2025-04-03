@@ -1,3 +1,4 @@
+House Distance Stores Model
 Random Forest Regression Metrics:
 Mean Squared Error (MSE): 49.71885654563388
 Mean Absolute Error (MAE): 5.355819284096091
@@ -13,7 +14,7 @@ Mean Squared Error (MSE): 68.47613568297074
 Mean Absolute Error (MAE): 6.294911161675511
 R-squared (R2): 0.5570506025251362
 
-
+Latitude Longitude Models
 Random Forest Regression Metrics:
 Mean Squared Error (MSE): 62.094542867372
 Mean Absolute Error (MAE): 5.641269625856072
